@@ -1,9 +1,3 @@
-<style>
-body {
-    font-size: large;
-}
-</style>
-
 # Shared classroom content (read-only)
 
 ### Course Content:
