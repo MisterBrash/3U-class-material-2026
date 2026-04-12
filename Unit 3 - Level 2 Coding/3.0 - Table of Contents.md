@@ -10,8 +10,9 @@
 - [3.2.3 - Else](3.2.3%20-%20Else.md)
 - [3.3 - While](3.3%20-%20While.md)
 - [3.4 - Do-While](3.4%20-%20Do%20While.md)
-- 3.5 - For
-- 📝 Unit 3 Summative Assessment 💻
+- [3.5 - For](3.5%20-%20For.md)
+
+📝 Unit 3 Summative Assessment 💻
 
 
 <br>
